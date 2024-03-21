@@ -1,3 +1,10 @@
+Created a simple E-commerce shoes website 
+
+<img width="1440" alt="Screenshot 2024-03-21 at 1 29 44 PM" src="https://github.com/deep150499/shoes-ecommerce/assets/119634445/dde99e3a-2b5f-4b8e-9b28-b2144571ee1d">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
