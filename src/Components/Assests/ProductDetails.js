@@ -1,10 +1,21 @@
-
+import img1 from '../../images/img1.jpeg'
+import img3 from '../../images/img2.jpeg'
+import img6 from '../../images/img3.jpeg'
+import img7 from '../../images/img4.jpeg'
+import img2 from '../../images/img5.jpeg'
+import img5 from '../../images/img6.jpeg'
+import img9 from '../../images/img7.jpeg'
+import img11 from '../../images/img8.jpeg'
+import img12 from '../../images/img9.jpeg'
+import img4 from '../../images/img10.jpeg'
+import img8 from '../../images/img11.jpeg'
+import img10 from '../../images/img12.jpeg'
 
 const productDetails = [
     {
         id : 1,
-        name : 'Nike Air Max',
-        src : "https://source.unsplash.com/white-and-red-nike-athletic-shoe-LG88A2XgIXY",
+        name : "Nike Air Max",
+        src : img1,
         price : 159,
         colors : [
             "#22D3EF","#ff0000","#CDD0D0"
@@ -12,8 +23,8 @@ const productDetails = [
     },
     {
         id : 2,
-        name : 'Nike Air Jordan',
-        src : "https://source.unsplash.com/black-white-and-red-nike-high-top-sneaker-76w_eDO1u1E",
+        name : "Nike Air Jordan",
+        src : img2,
         price : 169,
         colors : [
             "#ff0000","#000000","#CDD0D0"
@@ -21,8 +32,8 @@ const productDetails = [
     },
     {
         id : 3,
-        name : 'Nike Air force',
-        src : "https://source.unsplash.com/white-and-blue-nike-air-force-1-high-jvoZ-Aux9aw",
+        name : "Nike Air force",
+        src : img3,
         price : 139,
         colors : [
             "#ff0000","#000000","#CDD0D0"
@@ -30,8 +41,8 @@ const productDetails = [
     },
     {
         id : 4,
-        name : 'Nike Free Metcon 5',
-        src : "https://source.unsplash.com/green-and-black-nike-athletic-shoe-kP6knT7tjn4",
+        name : "Nike Free Metcon 5",
+        src : img4,
         price : 199,
         colors : [
             "#22D3EF","#ff0000","#CDD0D0"
@@ -39,8 +50,8 @@ const productDetails = [
     },
     {
         id : 5,
-        name : 'Nike Motiva',
-        src : "https://source.unsplash.com/black-and-white-nike-athletic-shoe-g3CMh2nqj_w",
+        name : "Nike Motiva",
+        src : img5,
         price : 179,
         colors : [
             "#ff0000","#000000","#CDD0D0"
@@ -48,8 +59,8 @@ const productDetails = [
     },
     {
         id : 6,
-        name : 'Free Run Nova',
-        src : "https://source.unsplash.com/pair-of-white-and-orange-athletic-shoes-on-white-box-dwKiHoqqxk8",
+        name : "Free Run Nova",
+        src : img6,
         price : 149,
         colors : [
             "#22D3EF","#ff0000","#CDD0D0"
@@ -57,8 +68,8 @@ const productDetails = [
     },
     {
         id : 7,
-        name : 'Nike Air Force Low',
-        src : "https://source.unsplash.com/unpaired-off-white-x-nike-air-force-1-low-top-sneaker-PqbL_mxmaUE",
+        name : "Nike Air Force Low",
+        src : img7,
         price : 129,
         colors : [
             "#ff0000","#000000","#CDD0D0"
@@ -66,8 +77,8 @@ const productDetails = [
     },
     {
         id : 8,
-        name : 'Nike Athletic',
-        src : "https://source.unsplash.com/black-and-white-nike-athletic-shoes-s-gYAbQToXk",
+        name : "Nike Athletic",
+        src : img8,
         price : 129,
         colors : [
             "#22D3EF","#ff0000","#CDD0D0"
@@ -75,8 +86,8 @@ const productDetails = [
     },
     {
         id : 9,
-        name : 'Nike Air Force 1',
-        src : "https://source.unsplash.com/white-nike-air-force-1-low-PGTO_A0eLt4",
+        name : "Nike Air Force 1",
+        src : img9,
         price : 129,
         colors : [
             "#ff0000","#000000","#CDD0D0"
@@ -84,8 +95,8 @@ const productDetails = [
     },
     {
         id : 10,
-        name : 'Nike Air Max Plus',
-        src : "https://source.unsplash.com/unpaired-gray-nike-air-max-shoe-EGOclsi5QZY",
+        name : "Nike Air Max Plus",
+        src : img10,
         price : 129,
         colors : [
             "#22D3EF","#ff0000","#CDD0D0"
@@ -93,8 +104,8 @@ const productDetails = [
     },
     {
         id : 11,
-        name : 'Nike Air Max 95',
-        src : "https://source.unsplash.com/person-wearing-blue-and-white-nike-air-max-95-shoes-0R489ZeSZqg",
+        name : "Nike Air Max 95",
+        src : img11,
         price : 129,
         colors : [
             "#ff0000","#000000","#CDD0D0"
@@ -102,8 +113,8 @@ const productDetails = [
     },
     {
         id : 12,
-        name : 'Nike Retro',
-        src : "https://source.unsplash.com/green-red-and-blue-nike-athletic-shoes-LmCmTBX3H9M",
+        name : "Nike Retro",
+        src : img12,
         price : 129,
         colors : [
             "#22D3EF","#ff0000","#CDD0D0"
